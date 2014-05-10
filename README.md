@@ -11,3 +11,4 @@ run `pip install -r requirements.txt` to install requirements, and start the ser
 To shutdown the server send a request to: `http://localhost:8000/shutdown`
 
 
+Largely based on https://github.com/tzangms/python-websocket-example.
